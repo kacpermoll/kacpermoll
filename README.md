@@ -1,7 +1,6 @@
 <h2 align="center">Hi 👋, I'm Kacper</h2>
 <h4 align="center">Computer Science student</h4>
-<h4 align="center">Here you can find some of my projects made for educational purposes</h4>
-<h4 align="center">My current goal is to train my skills in python because of its use in data analysis.</h4>
+<h4 align="center">Here you can find some of my projects made for hobby and educational purposes</h4>
 <h3 align="left">You can find me on Linkedin:</h3>
 <p align="left">
   https://www.linkedin.com/in/kacper-moll/
