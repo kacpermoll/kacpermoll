@@ -1,5 +1,5 @@
 <h2 align="center">Hi 👋, I'm Kacper</h2>
-<h4 align="center">Computer Science student</h4>
+<h4 align="center">Computer Science student and Data Engineer</h4>
 <h4 align="center">Here you can find some of my projects made for hobby and educational purposes</h4>
 <h3 align="left">You can find me on Linkedin:</h3>
 <p align="left">
